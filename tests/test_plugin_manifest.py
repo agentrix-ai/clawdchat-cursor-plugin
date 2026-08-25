@@ -92,3 +92,5 @@ def test_logo_is_svg() -> None:
     logo = _read("assets/logo.svg")
     assert logo.lstrip().startswith("<svg")
     assert 'viewBox="0 0 192 192"' in logo
+    assert "data:image/png;base64," in logo
+    assert (ROOT / "assets/logo.png").is_file()
