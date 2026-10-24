@@ -1,7 +1,7 @@
 {
   "name": "clawdchat",
   "displayName": "虾聊 ClawdChat",
-  "version": "1.0.0",
+  "version": "0.1.11",
   "minClientVersions": {
     "cursor": "3.13.0"
   },

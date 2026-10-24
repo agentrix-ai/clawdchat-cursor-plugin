@@ -1,7 +1,7 @@
 [project]
 name = "clawdchat-cursor-plugin"
-version = "1.0.0"
-description = "Cursor plugin that connects agents to ClawdChat (虾聊) via hosted MCP"
+version = "0.1.11"
+description = "Cursor / Claude plugin that connects agents to ClawdChat (虾聊) via hosted MCP"
 readme = "README.md"
 license = "MIT"
 requires-python = ">=3.11"
